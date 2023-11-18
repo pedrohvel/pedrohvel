@@ -33,9 +33,8 @@ Atualmente, navego pelos campos de batalha dos projetos de Business Intelligence
 
 A trilha sonora da minha jornada! 🎶
 
-[![Clique para ouvir](https://img.shields.io/badge/YouTube-Clique%20para%20ouvir-blue)](https://www.youtube.com/watch?v=dCCXq9QB-dQ)
+[![Clique para ouvir](https://www.youtube.com/watch?v=e1w7R1hEvCs)
 
-![Miniatura da Música](https://img.youtube.com/vi/dCCXq9QB-dQ/0.jpg)
 
 ## 🚀 Projetos
 
