@@ -45,34 +45,3 @@ Confira minhas últimas iniciativas no [GitHub](https://github.com/pedrohvel). �
 ## Curiosidade Tecnológica
 
 Além do meu compromisso com os dados, tenho uma paixão por explorar o potencial transformador de tecnologias emergentes. 🌐
-
----
-
-## Projeto Quantum: Desvendando o Futuro da Transformação Digital
-
-Bem-vindo ao Projeto Quantum, um repositório dedicado a explorar e implementar técnicas avançadas de Machine Learning para impulsionar a Transformação Digital. A Quantum, inspirada na vanguarda tecnológica, representa a busca contínua por inovações disruptivas.
-
-### Principais Destaques
-
-- **Modelos Avançados:**
-  - Modelo quântico de última geração
-  - Rede Neural Profunda
-  - Modelo de Regressão Preditiva
-
-### Estrutura do Projeto
-
-- **Diretórios:**
-  - `data/`: Conjunto de dados para treinamento e experimentação
-  - `logs/`: Registro de eventos e resultados
-  - `models/`: Organização dos modelos avançados
-  - `notebooks/`: Notebooks aprimorados e otimizados
-  - `src/`: Código-fonte do projeto
-
-### Como Reproduzir o Projeto
-
-1. Clone este repositório.
-2. Configure e ative o ambiente virtual (`python -m venv env` seguido de `.\env\Scripts\activate`).
-3. Instale as dependências (`pip install -r requirements.txt`).
-4. Execute os Jupyter Notebooks para treinamento e experimentação.
-
-🔗 [Explore o Projeto Quantum no GitHub](https://github.com/pedrohvel/Projeto_Quantum_ML)
