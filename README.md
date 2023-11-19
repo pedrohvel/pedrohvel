@@ -1,10 +1,12 @@
-# ![Inteligência Artificial](https://cdn.dribbble.com/users/32512/screenshots/4787574/light_ai_design_by_gleb.gif) Bem-vindo ao meu perfil! 🚀
+# ![Inteligência Artificial e Machine Learning](https://cdn.dribbble.com/users/32512/screenshots/4787574/light_ai_design_by_gleb.gif)
 
-Olá! Eu sou o Pedro Velame, um entusiasta da Ciência de Dados e Inteligência Artificial.
+Bem-vindo ao meu perfil! 🚀
+
+Olá! Eu sou o Pedro Velame, um entusiasta da Ciência de Dados, focado em trazer uma abordagem inovadora e tecnológica para projetos de Business Intelligence (BI), Análise de Dados e Inteligência Artificial (IA).
 
 ## 🌐 Sobre Mim
 
-Atualmente, navego pelos campos de batalha dos projetos de Business Intelligence (BI), Análise de Dados e Inteligência Artificial (IA). Busco incessantemente extrair insights valiosos de conjuntos complexos de informações.
+Atualmente, navego pelos campos de batalha dos projetos que integram Business Intelligence, Análise de Dados e Inteligência Artificial. Meu objetivo é extrair insights valiosos de conjuntos complexos de informações, utilizando as mais avançadas técnicas de Machine Learning.
 
 ## 🚀 Habilidades
 
@@ -49,9 +51,9 @@ Além da minha jornada em dados, sou apaixonado por jogar Paladins, explorar Alb
 
 ---
 
-## 🚀 Projeto Hydra
+## 🚀 Projeto Hydra: Explorando o Futuro da Inteligência Artificial e Machine Learning
 
-Bem-vindo ao Projeto Hydra, um repositório dedicado a explorar e implementar técnicas de Machine Learning. A Hydra, inspirada na mitologia grega, representa a multiplicidade de abordagens que esse projeto abraça.
+Bem-vindo ao Projeto Hydra, um repositório dedicado a explorar e implementar técnicas de Machine Learning com foco na Inteligência Artificial. A Hydra, inspirada na mitologia grega, representa a multiplicidade de abordagens inovadoras que este projeto abraça.
 
 ### Principais Destaques
 
