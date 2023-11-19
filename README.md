@@ -32,7 +32,8 @@ Navego pelos desafios e oportunidades da transformação digital, explorando as 
 
 A trilha sonora que embala minhas jornadas analíticas! 🎶
 
-[![Clique para ouvir](https://img.shields.io/badge/YouTube-Clique%20para%20ouvir-blue)](https://www.youtube.com/watch?v=Q0impfAw-dc)
+[![Clique para ouvir](https://img.shields.io/badge/YouTube-Clique%20para%20ouvir-blue)](https://www.youtube.com/watch?v=WvS4OzUUhSU)
+
 
 ## Projetos
 
