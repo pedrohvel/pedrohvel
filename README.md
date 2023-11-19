@@ -1,27 +1,24 @@
-# ![Inteligência Artificial e Machine Learning](https://cdn.dribbble.com/users/32512/screenshots/4787574/light_ai_design_by_gleb.gif)
-
 Bem-vindo ao meu perfil! 🚀
 
-Olá! Eu sou o Pedro Velame, um entusiasta da Ciência de Dados, focado em trazer uma abordagem inovadora e tecnológica para projetos de Business Intelligence (BI), Análise de Dados e Inteligência Artificial (IA).
+Olá! Meu nome é Pedro Velame, e sou um entusiasta da inovação, centrado na interseção entre a era digital e o universo do Machine Learning.
 
-## 🌐 Sobre Mim
+## Sobre Mim
 
-Atualmente, navego pelos campos de batalha dos projetos que integram Business Intelligence, Análise de Dados e Inteligência Artificial. Meu objetivo é extrair insights valiosos de conjuntos complexos de informações, utilizando as mais avançadas técnicas de Machine Learning.
+Navego pelos desafios e oportunidades da transformação digital, explorando as sinergias entre Business Intelligence, Análise de Dados e Inteligência Artificial. Meu propósito é impulsionar inovações que transcendam o convencional e extrair insights estratégicos de dados complexos.
 
-## 🚀 Habilidades
+## Habilidades
 
 ### Análise de Dados
-- Exploração de Dados
-- Geração de Insights
-- Modelagem de Dados
-- Modelagem Preditiva
-- SQL
+- Exploração e Transformação de Dados
+- Geração de Insights Estratégicos
+- Modelagem de Dados Preditiva
+- SQL Avançado
 
 ### Ferramentas e Tecnologias
-- Excel (Avançado)
+- Excel Avançado
 - Power BI (Intermediário)
 - Pentaho (Básico)
-- Azure Cloud (Microsoft Azure)
+- Microsoft Azure (Cloud)
 - MLflow (MLOps)
 
 ### Tecnologias
@@ -31,53 +28,51 @@ Atualmente, navego pelos campos de batalha dos projetos que integram Business In
 - Python
 - Pandas
 
-## 🎵 Música Atual
+## Trilha Sonora Atual
 
-A trilha sonora da minha jornada! 🎶
+A trilha sonora que embala minhas jornadas analíticas! 🎶
 
-[![Clique para ouvir](https://img.shields.io/badge/YouTube-Clique%20para%20ouvir-blue)](https://www.youtube.com/watch?v=e1w7R1hEvCs)
+[![Clique para ouvir](https://img.shields.io/badge/YouTube-Clique%20para%20ouvir-blue)](https://www.youtube.com/watch?v=Q0impfAw-dc)
 
-## 🚀 Projetos
+## Projetos
 
-Confira minhas recentes missões no [GitHub](https://github.com/pedrohvel). 📊
+Confira minhas últimas iniciativas no [GitHub](https://github.com/pedrohvel). 📊
 
-## 📫 Conecte-se Comigo
+## Conecte-se Comigo
 
 - [LinkedIn](https://www.linkedin.com/in/pedro-h-velame/)
 
-## ⚡ Fun Fact
+## Curiosidade Tecnológica
 
-Além da minha jornada em dados, sou apaixonado por jogar Paladins, explorar Albion, estudar francês e ouvir o som futurista do Future Garage! 😄
+Além do meu compromisso com os dados, tenho uma paixão por explorar o potencial transformador de tecnologias emergentes. 🌐
 
 ---
 
-## 🚀 Projeto Hydra: Explorando o Futuro da Inteligência Artificial e Machine Learning
+## Projeto Quantum: Desvendando o Futuro da Transformação Digital
 
-Bem-vindo ao Projeto Hydra, um repositório dedicado a explorar e implementar técnicas de Machine Learning com foco na Inteligência Artificial. A Hydra, inspirada na mitologia grega, representa a multiplicidade de abordagens inovadoras que este projeto abraça.
+Bem-vindo ao Projeto Quantum, um repositório dedicado a explorar e implementar técnicas avançadas de Machine Learning para impulsionar a Transformação Digital. A Quantum, inspirada na vanguarda tecnológica, representa a busca contínua por inovações disruptivas.
 
 ### Principais Destaques
 
-🤖 **Modelos Treinados:**
-- `modelo_FLAML.pkl`: Modelo treinado com FLAML.
-- `modelo_DT.pkl`: Modelo de Árvore de Decisão.
-- `modelo_LR.pkl`: Modelo de Regressão Linear.
+- **Modelos Avançados:**
+  - Modelo quântico de última geração
+  - Rede Neural Profunda
+  - Modelo de Regressão Preditiva
 
 ### Estrutura do Projeto
 
-📂 **Pastas:**
-- `data/`: Conjunto de dados para treinamento e experimentação.
-- `logs/`: Log de eventos e resultados.
-- `models/`: Organização dos modelos treinados.
-- `notebooks/`: Correção e aprimoramento dos notebooks.
-- `src/`: Código-fonte do projeto.
+- **Diretórios:**
+  - `data/`: Conjunto de dados para treinamento e experimentação
+  - `logs/`: Registro de eventos e resultados
+  - `models/`: Organização dos modelos avançados
+  - `notebooks/`: Notebooks aprimorados e otimizados
+  - `src/`: Código-fonte do projeto
 
 ### Como Reproduzir o Projeto
 
 1. Clone este repositório.
-2. Crie e ative o ambiente virtual (`python -m venv env` seguido de `.\env\Scripts\activate`).
+2. Configure e ative o ambiente virtual (`python -m venv env` seguido de `.\env\Scripts\activate`).
 3. Instale as dependências (`pip install -r requirements.txt`).
 4. Execute os Jupyter Notebooks para treinamento e experimentação.
 
-![Projeto Hydra](https://camo.githubusercontent.com/0c23b47558dc00e3f38d50edc6ca7880dfc3fbb7ec507cd2f3b706ea72e935ff/68747470733a2f2f692e706f7374696d672e63632f4d4b5a76775837472f68796472612e706e67)
-
-🔗 [Acesse o Projeto Hydra no GitHub](https://github.com/pedrohvel/Hydra_ml_pipelines_project)
+🔗 [Explore o Projeto Quantum no GitHub](https://github.com/pedrohvel/Projeto_Quantum_ML)
