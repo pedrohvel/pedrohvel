@@ -1,63 +1,66 @@
 # Bem-vindo ao Meu Perfil! 🚀
 
-Olá! Eu sou Pedro Velame, um entusiasta da inovação, imerso na interseção entre a era digital e o universo do Machine Learning.
+Olá! Sou **Pedro Henrique Velame**, um Analista de Dados profissional com expertise em ferramentas analíticas, como Excel, SQL e Power BI. Minha abordagem foca em aprimorar a tomada de decisões, contribuindo para o crescimento sustentável das empresas.
 
-## Sobre Mim
+## Sobre Mim 🧠📈
 
-Navego pelos desafios e oportunidades da transformação digital, explorando as sinergias entre Business Intelligence, Análise de Dados e Inteligência Artificial. Meu propósito é impulsionar inovações que transcendam o convencional e extrair insights estratégicos de dados complexos. 💡
+Sou um profissional comprometido com a **visão de longo prazo** e o desenvolvimento mercadológico. Minha sólida formação em Ciência de Dados e experiência em áreas como gestão documental e inovações em computação em nuvem e data science me permite abordar desafios de forma estratégica.
 
-## Habilidades
+## Conhecimentos Destacados 🌐💼
 
-### Análise de Dados
-- Exploração e Transformação de Dados
-- Geração de Insights Estratégicos
-- Modelagem de Dados Preditiva
-- SQL Avançado
+### Pessoais 🤔💡
+- **Pensamento crítico**
+- **Visão de longo prazo**
+- **Espírito de liderança**
+- **Resiliente**
+- **Criativo**
+- **Inovador**
+- **Trabalho em equipe**
 
-### Ferramentas e Tecnologias
-- Excel Avançado
-- Power BI (Intermediário)
-- Pentaho (Básico)
-- Microsoft Azure (Cloud ☁️)
-- MLflow (MLOps)
+### Técnicos 🛠️📊
+- **Scikit-Learn**
+- **Keras**
+- **Pandas**
+- **Seaborn**
+- **Numpy**
+- **Excel (Avançado)**
+- **Power BI**
+- **Python**
+- **Power Query**
+- **Qlik Sense**
+- **Looker**
+- **Pentaho Data Integration**
+- **SQL**
+- **GCP e AWS**
+- **Design e UX** 🧑‍🎨
 
-### Tecnologias
-- Keras
-- TensorFlow
-- Scikit-learn
-- Python 🐍
-- Pandas
+## Destaques em Projetos 🚀📊
 
-## Trilha Sonora Atual
+- **Previsão da Qualidade do Vinho do Porto:** Antecipando a qualidade dos sabores com modelos preditivos.
+- **Modelo Preditivo de Diabetes:** Precisão em previsões de diabetes por meio de modelo preditivo em Python.
+- **Rede Neural Fashion MNIST:** Classificação de imagens no universo da moda usando rede neural.
+- **Dashboard de Vendas do Superstore:** Análise de vendas com insights temporais, mapeamento de cidades lucrativas e análises estatísticas precisas.
+- **Previsão de Preços de Carros:** Exploração e Previsão de Preços de Carros usando Python.
 
-A trilha sonora que embala minhas jornadas analíticas! 🎶
+## Conhecimentos Específicos 💹💡
 
-[![Clique para ouvir](https://img.shields.io/badge/YouTube-Clique%20para%20ouvir-blue)](https://www.youtube.com/watch?v=4cEKAYnxbrk)
+- **Precificação** 💰
+- **Análise de Mercado** 📈
+- **Inteligência Comercial** 🧠💼
 
-## Projetos
+## Idiomas 🌐🗣️
 
-Confira minhas últimas iniciativas no [GitHub](https://github.com/pedrohvel). 📊
+- Espanhol (Básico)
+- Francês (Intermediário)
+- Inglês (Fluente)
+- Português (Nativo)
 
-## Conecte-se Comigo
+## Contato ☎️📧
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-blue)](https://www.linkedin.com/in/pedro-h-velame/)
+- 📞 +55 75 999667184
+- 📧 pedrovelame123@gmail.com
+- 💼 [GitHub](https://github.com/pedrohvel)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-h-velame/)
+- 📍 Curitiba, PR
 
-## Curiosidade Tecnológica
-
-Além do meu compromisso com os dados, tenho uma paixão por explorar o potencial transformador de tecnologias emergentes. 🌐
-
----
-
-### Power BI com Azure Cloud e IA
-
-Exploro o poder da inteligência artificial no Power BI utilizando a nuvem do Azure para análise avançada e visualização de dados. 🚀
-
-#### Detalhes do Projeto:
-
-- **Visualização de Dados Avançada:** Utilizei técnicas avançadas de visualização para tornar os dados mais compreensíveis e impactantes. 📈
-
-- **UX Aprimorado:** Priorizei a experiência do usuário (UX) para garantir interfaces intuitivas e eficientes. 🎨
-
-- **Inteligência Artificial no Power BI:** Integrei modelos de Machine Learning no Power BI para análises mais preditivas e insights robustos. 🤖
-
----
+O segredo do sucesso é a chama constante do propósito. 🔥
