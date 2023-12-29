@@ -1,14 +1,17 @@
-# Bem-vindo ao Meu Perfil! 🚀
+![Texto Alternativo](https://media.licdn.com/dms/image/D4D16AQHb2SGK3fUfqw/profile-displaybackgroundimage-shrink_350_1400/0/1703664152640?e=1709164800&v=beta&t=YPb5SLhVSmlculxjCofo9CiNwZjeTv81DzRUTFcHpYU)
+
+
+# Bem-vindo ao Meu Perfil! 
 
 Olá! Sou **Pedro Henrique Velame**, um Analista de Dados profissional com expertise em ferramentas analíticas, como Excel, SQL e Power BI. Minha abordagem foca em aprimorar a tomada de decisões, contribuindo para o crescimento sustentável das empresas.
 
-## Sobre Mim 🧠📈
+## 🧠📈 Sobre Mim 
 
 Sou um profissional comprometido com a **visão de longo prazo** e o desenvolvimento mercadológico. Minha sólida formação em Ciência de Dados e experiência em áreas como gestão documental e inovações em computação em nuvem e data science me permite abordar desafios de forma estratégica.
 
-## Conhecimentos Destacados 🌐💼
+## 🌐💼 Conhecimentos Destacados 
 
-### Pessoais 🤔💡
+### 🤔💡 Pessoais 
 - **Pensamento crítico**
 - **Visão de longo prazo**
 - **Espírito de liderança**
@@ -17,7 +20,7 @@ Sou um profissional comprometido com a **visão de longo prazo** e o desenvolvim
 - **Inovador**
 - **Trabalho em equipe**
 
-### Técnicos 🛠️📊
+### 🛠️📊 Técnicos 
 - **Scikit-Learn**
 - **Keras**
 - **Pandas**
@@ -34,7 +37,7 @@ Sou um profissional comprometido com a **visão de longo prazo** e o desenvolvim
 - **GCP e AWS**
 - **Design e UX** 🧑‍🎨
 
-## Destaques em Projetos 🚀📊
+## 🚀📊 Destaques em Projetos 
 
 - **Previsão da Qualidade do Vinho do Porto:** Antecipando a qualidade dos sabores com modelos preditivos.
 - **Modelo Preditivo de Diabetes:** Precisão em previsões de diabetes por meio de modelo preditivo em Python.
@@ -42,25 +45,26 @@ Sou um profissional comprometido com a **visão de longo prazo** e o desenvolvim
 - **Dashboard de Vendas do Superstore:** Análise de vendas com insights temporais, mapeamento de cidades lucrativas e análises estatísticas precisas.
 - **Previsão de Preços de Carros:** Exploração e Previsão de Preços de Carros usando Python.
 
-## Conhecimentos Específicos 💹💡
+## 💹💡 Conhecimentos Específicos 
 
 - **Precificação** 💰
 - **Análise de Mercado** 📈
 - **Inteligência Comercial** 🧠💼
+- **Estratégia Comercial** 📝
 
-## Idiomas 🌐🗣️
+## 🌐🗣️ Idiomas 
 
 - Espanhol (Básico)
 - Francês (Intermediário)
 - Inglês (Fluente)
 - Português (Nativo)
 
-## Contato ☎️📧
+## ☎️📧 Contato 
 
 - 📞 +55 75 999667184
 - 📧 pedrovelame123@gmail.com
-- 💼 [GitHub](https://github.com/pedrohvel)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-h-velame/)
+- 💼 GitHub
+- 💼 LinkedIn
 - 📍 Curitiba, PR
 
 O segredo do sucesso é a chama constante do propósito. 🔥
