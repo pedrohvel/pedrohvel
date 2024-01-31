@@ -1,4 +1,4 @@
-![Texto Alternativo](https://media.licdn.com/dms/image/D4D16AQG3ssgpuyxEVQ/profile-displaybackgroundimage-shrink_350_1400/0/1706650920156?e=1712188800&v=beta&t=BdO-m9Mg4VbaekamfGXbaUffS28pe09pIluC1WI2eiM)
+![Texto Alternativo](https://media.licdn.com/dms/image/D4D16AQGy7KV3HrbFYg/profile-displaybackgroundimage-shrink_350_1400/0/1706660472096?e=1712188800&v=beta&t=eJigOnaEV2bRzSRRaenVBH9FL_yw4SM4h-RnQN-_MMo)
 
 
 # Bem-vindo ao Meu Perfil! 
