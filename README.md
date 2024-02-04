@@ -2,7 +2,7 @@
 
 Olá! Sou **Pedro Henrique Velame**, um Tecnologista em Ciência de Dados apaixonado por explorar o vasto universo dos dados, especializando-me em Engenharia de Dados e Business Intelligence. Ao longo da minha jornada acadêmica, desenvolvi uma profunda compreensão da complexidade da análise de dados e da aplicação estratégica de tecnologias emergentes.
 
-![Texto Alternativo](https://media.licdn.com/dms/image/D4D16AQEAjiM7rwbNPA/profile-displaybackgroundimage-shrink_350_1400/0/1706986031703?e=1712188800&v=beta&t=enoaeGrUkz_5EWGos-p_mOa-m3s71Zm55HY2R-bfavk)
+![Imagem de Perfil](https://media.licdn.com/dms/image/D4D16AQEAjiM7rwbNPA/profile-displaybackgroundimage-shrink_350_1400/0/1706986031703?e=1712188800&v=beta&t=enoaeGrUkz_5EWGos-p_mOa-m3s71Zm55HY2R-bfavk)
 
 ## 🔧💼 Habilidades Técnicas
 
@@ -17,14 +17,6 @@ Anhanguera Educacional (Jan 2024 - Ago 2024)
 **Curso Superior de Tecnologia em Ciências de Dados e Análise de Comportamento**
 UniCesumar (Jan 2021 - Nov 2023)
 Graduado com CRA 6.73 / Total da Carga Horária 2320 horas
-
-## 🔧💼 Habilidades e Experiências Adicionais
-
-- Automatização de processos de análise: Utilizei um plugin para automatizar processos de análise em portais licitatórios.
-- Treinamento sobre leis de licitação: Recebi treinamento sobre as leis vigentes relacionadas à licitação no Brasil.
-- Introdução ao ambiente corporativo: Fui introduzido ao ambiente corporativo, com foco especial no setor público comercial.
-- Análise de Editais no Excel: Realizei a filtragem e análise de editais utilizando o Excel.
-- Formação de Preços em Propostas de Licitação: Introdução à formação de preços de serviços na preparação de propostas de licitação.
 
 ## 💬 Sobre Mim
 
