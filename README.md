@@ -1,8 +1,8 @@
+![Imagem de Perfil](https://media.licdn.com/dms/image/D4D16AQF1MYIuj3aJbw/profile-displaybackgroundimage-shrink_350_1400/0/1707214202961?e=1712793600&v=beta&t=U58cIcl8sWhC-XF-4HczzNDUZggZgeyMVYEzRV0phOs)
+
 # Bem-vindo ao Meu Perfil! 
 
 Olá! Sou **Pedro Henrique Velame**, um Tecnologista em Ciência de Dados apaixonado por explorar o vasto universo dos dados, especializando-me em Engenharia de Dados e Business Intelligence. Ao longo da minha jornada acadêmica, desenvolvi uma profunda compreensão da complexidade da análise de dados e da aplicação estratégica de tecnologias emergentes.
-
-![Imagem de Perfil](https://media.licdn.com/dms/image/D4D16AQEAjiM7rwbNPA/profile-displaybackgroundimage-shrink_350_1400/0/1706986031703?e=1712188800&v=beta&t=enoaeGrUkz_5EWGos-p_mOa-m3s71Zm55HY2R-bfavk)
 
 ## 🔧💼 Habilidades Técnicas
 
