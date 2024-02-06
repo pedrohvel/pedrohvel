@@ -6,7 +6,7 @@ Olá! Sou **Pedro Henrique Velame**, um Tecnologista em Ciência de Dados apaixo
 
 ## 🔧💼 Habilidades Técnicas
 
-- Microsoft Excel • SQL • Python • Microsoft Power BI • Inteligência de mercado
+- Microsoft Excel • SQL • Python • Microsoft Power BI • Scripting • Github 
 - Scikit-Learn • Keras • Pandas • Seaborn • Numpy • Excel (Avançado) • Power BI • Python • Power Query • Qlik Sense • Looker • Pentaho Data Integration • SQL • GCP e AWS • Snowflake • Data Warehousing • Design e UX • Dbt
 
 ## 📚🔍 Formação Acadêmica
@@ -24,7 +24,6 @@ Sou um profissional que busca constantemente aprimorar minhas habilidades, procu
 
 ## 🌐🗣️ Idiomas
 
-- Alemão (Básico)
 - Francês (Avançado)
 - Inglês (Fluente)
 - Português (Nativo)
