@@ -1,24 +1,42 @@
-![Imagem de Perfil](https://media.licdn.com/dms/image/D4D16AQHGM0kZweXI1w/profile-displaybackgroundimage-shrink_350_1400/0/1707228797787?e=1712793600&v=beta&t=WxEd-RvAEEPWX_Am6eXd9ydTNmV4t1VnRvAvB8DnoJI)
-
+![Imagem de Perfil](https://media.licdn.com/dms/image/D4D16AQHphNsFnNGyvg/profile-displaybackgroundimage-shrink_350_1400/0/1707866525413?e=1713398400&v=beta&t=EYRaWfPlGVQM-Ru3IVZcVMePmR28M8ZtOZSQNaLj3G4)
 # Bem-vindo ao Meu Perfil! 
 
 Olá! Sou **Pedro Henrique Velame**, um Tecnologista em Ciência de Dados apaixonado por explorar o vasto universo dos dados, especializando-me em Engenharia de Dados e Business Intelligence. Ao longo da minha jornada acadêmica, desenvolvi uma profunda compreensão da complexidade da análise de dados e da aplicação estratégica de tecnologias emergentes.
 
+
 ## 🔧💼 Habilidades Técnicas
 
-![Imagem de Perfil](https://assets-v2.lottiefiles.com/a/b875d14e-1183-11ee-a6bc-8b9ab8e0a59d/jZ5uXd72DS.gif "autoplay")
-
-- Microsoft Excel • SQL • Python • Microsoft Power BI • Scripting • Github 
-- Scikit-Learn • Keras • Pandas • Seaborn • Numpy • Excel (Avançado) • Power BI • Python • Power Query • Qlik Sense • Looker • Pentaho Data Integration • SQL • GCP e AWS • Snowflake • Data Warehousing • Design e UX • Dbt
+| Habilidade                       | Ferramenta                                                     |
+| -------------------------------- | -------------------------------------------------------------- |
+| Microsoft Excel                  | ![Excel](https://img.icons8.com/office/40/000000/microsoft-excel-2019.png)                          |
+| SQL                              | ![SQL](https://img.icons8.com/ios/40/000000/sql.png)                              |
+| Python                           | ![Python](https://img.icons8.com/ios/40/000000/python.png)                        |
+| Microsoft Power BI               | ![Power BI](https://img.icons8.com/color/40/000000/power-bi.png)                     |
+| Scripting                        | ![Scripting](https://img.icons8.com/material-rounded/40/000000/code.png)                  |
+| Github                           | ![GitHub](https://img.icons8.com/material-rounded/40/000000/github.png)                        |
+| Scikit-Learn                     | ![Scikit-Learn](https://img.icons8.com/ios/40/000000/machine-learning.png)            |
+| Keras                            | ![Keras](https://img.icons8.com/ios/40/000000/neural-network.png)                          |
+| Pandas                           | ![Pandas](https://img.icons8.com/color/40/000000/pandas.png)                        |
+| Seaborn                          | ![Seaborn](https://img.icons8.com/color/40/000000/seaborn.png)                      |
+| Numpy                            | ![Numpy](https://img.icons8.com/color/40/000000/numpy.png)                          |
+| Power Query                      | ![Power Query](https://img.icons8.com/ios/40/000000/sql-query.png)              |
+| Qlik Sense                       | ![Qlik Sense](https://img.icons8.com/color/40/000000/qlik.png)                |
+| Looker                           | ![Looker](https://img.icons8.com/color/40/000000/looker.png)                        |
+| Pentaho Data Integration         | ![Pentaho](https://img.icons8.com/dusk/40/000000/pentaho.png)                      |
+| GCP e AWS                        | ![GCP e AWS](https://img.icons8.com/color/40/000000/google-cloud.png)                   |
+| Snowflake                        | ![Snowflake](https://img.icons8.com/color/40/000000/snowflake.png)                  |
+| Data Warehousing                 | ![Data Warehousing](https://img.icons8.com/ios/40/000000/data-warehouse.png)    |
+| Design e UX                      | ![Design e UX](https://img.icons8.com/ios/40/000000/design-thinking.png)               |
+| Dbt                              | ![Dbt](https://img.icons8.com/dusk/40/000000/etl.png)                              |
 
 ## 📚🔍 Formação Acadêmica
 
-**Pós-graduação Lato Sensu em Engenharia de Dados**
-Anhanguera Educacional (Jan 2024 - Ago 2024)
+- **Pós-graduação Lato Sensu em Engenharia de Dados**
+  - Anhanguera Educacional (Jan 2024 - Ago 2024)
 
-**Curso Superior de Tecnologia em Ciências de Dados e Análise de Comportamento**
-UniCesumar (Jan 2021 - Nov 2023)
-Graduado com CRA 6.73 / Total da Carga Horária 2320 horas
+- **Curso Superior de Tecnologia em Ciências de Dados e Análise de Comportamento**
+  - UniCesumar (Jan 2021 - Nov 2023)
+  - Graduado com CRA 6.73 / Total da Carga Horária 2320 horas
 
 ## 💬 Sobre Mim
 
