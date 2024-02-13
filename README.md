@@ -17,17 +17,16 @@ Olá! Sou **Pedro Henrique Velame**, um Tecnologista em Ciência de Dados apaixo
 | Scikit-Learn                     | ![Scikit-Learn](https://img.icons8.com/ios/40/000000/machine-learning.png)            |
 | Keras                            | ![Keras](https://img.icons8.com/ios/40/000000/neural-network.png)                          |
 | Pandas                           | ![Pandas](https://img.icons8.com/color/40/000000/pandas.png)                        |
-| Seaborn                          | ![Seaborn](https://img.icons8.com/color/40/000000/seaborn.png)                      |
+| Seaborn                          | ![Seaborn](https://img.icons8.com/color/40/000000/data-visualization.png)                      |
 | Numpy                            | ![Numpy](https://img.icons8.com/color/40/000000/numpy.png)                          |
-| Power Query                      | ![Power Query](https://img.icons8.com/ios/40/000000/sql-query.png)              |
+| Power Query                      | ![Power Query](https://img.icons8.com/metro/40/000000/query.png)              |
 | Qlik Sense                       | ![Qlik Sense](https://img.icons8.com/color/40/000000/qlik.png)                |
 | Looker                           | ![Looker](https://img.icons8.com/color/40/000000/looker.png)                        |
 | Pentaho Data Integration         | ![Pentaho](https://img.icons8.com/dusk/40/000000/pentaho.png)                      |
-| GCP e AWS                        | ![GCP e AWS](https://img.icons8.com/color/40/000000/google-cloud.png)                   |
-| Snowflake                        | ![Snowflake](https://img.icons8.com/color/40/000000/snowflake.png)                  |
-| Data Warehousing                 | ![Data Warehousing](https://img.icons8.com/ios/40/000000/data-warehouse.png)    |
+| Data Warehousing                 | ![Data Warehousing](https://img.icons8.com/ios/40/000000/database.png)    |
 | Design e UX                      | ![Design e UX](https://img.icons8.com/ios/40/000000/design-thinking.png)               |
 | Dbt                              | ![Dbt](https://img.icons8.com/dusk/40/000000/etl.png)                              |
+
 
 ## 📚🔍 Formação Acadêmica
 
