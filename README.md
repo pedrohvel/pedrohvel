@@ -1,40 +1,36 @@
-![Imagem de Perfil](https://media.licdn.com/dms/image/D4D16AQEuo1GA2FQLsw/profile-displaybackgroundimage-shrink_350_1400/0/1707867402468?e=1713398400&v=beta&t=ZHljdHFocCaxxgRuEU4pIqBdWzSIKSXD9rwLK3KgCGU)
-# Bem-vindo ao Meu Perfil! 
+# ![Imagem de Perfil](https://media.licdn.com/dms/image/D4D16AQEuo1GA2FQLsw/profile-displaybackgroundimage-shrink_350_1400/0/1707867402468?e=1713398400&v=beta&t=ZHljdHFocCaxxgRuEU4pIqBdWzSIKSXD9rwLK3KgCGU) Bem-vindo ao Meu Perfil!
 
 Olá! Sou **Pedro Henrique Velame**, um Tecnologista em Ciência de Dados apaixonado por explorar o vasto universo dos dados, especializando-me em Engenharia de Dados e Business Intelligence. Ao longo da minha jornada acadêmica, desenvolvi uma profunda compreensão da complexidade da análise de dados e da aplicação estratégica de tecnologias emergentes.
 
-
 ## 🔧💼 Habilidades Técnicas
 
-| Habilidade                       | Ferramenta                                                     |
-| -------------------------------- | -------------------------------------------------------------- |
-| Microsoft Excel                  | ![Excel](https://img.icons8.com/office/40/000000/microsoft-excel-2019.png)                          |
-| SQL                              | ![SQL](https://img.icons8.com/ios/40/000000/sql.png)                              |
-| Python                           | ![Python](https://img.icons8.com/ios/40/000000/python.png)                        |
-| Microsoft Power BI               | ![Power BI](https://img.icons8.com/color/40/000000/power-bi.png)                     |
-| Scripting                        | ![Scripting](https://img.icons8.com/material-rounded/40/000000/code.png)                  |
-| Github                           | ![GitHub](https://img.icons8.com/material-rounded/40/000000/github.png)                        |
-| Scikit-Learn                     | ![Scikit-Learn](https://img.icons8.com/ios/40/000000/machine-learning.png)            |
-| Keras                            | ![Keras](https://img.icons8.com/ios/40/000000/neural-network.png)                          |
-| Pandas                           | ![Pandas](https://img.icons8.com/color/40/000000/pandas.png)                        |
-| Seaborn                          | ![Seaborn](https://img.icons8.com/color/40/000000/data-visualization.png)                      |
-| Numpy                            | ![Numpy](https://img.icons8.com/color/40/000000/numpy.png)                          |
-| Power Query                      | ![Power Query](https://img.icons8.com/metro/40/000000/query.png)              |
-| Qlik Sense                       | ![Qlik Sense](https://img.icons8.com/color/40/000000/qlik.png)                |
-| Looker                           | ![Looker](https://img.icons8.com/color/40/000000/looker.png)                        |
-| Pentaho Data Integration         | ![Pentaho](https://img.icons8.com/dusk/40/000000/pentaho.png)                      |
-| Data Warehousing                 | ![Data Warehousing](https://img.icons8.com/ios/40/000000/database.png)    |
-| Design e UX                      | ![Design e UX](https://img.icons8.com/ios/40/000000/design-thinking.png)               |
-| Dbt                              | ![Dbt](https://img.icons8.com/dusk/40/000000/etl.png)                              |
+### Linguagens de Programação
+- 🐍 Python
+- 📊 SQL
 
+### Ferramentas
+- 📈 Excel
+- 🔍 Power BI
+- 🐙 GitHub
+- 🤖 Scikit-Learn
+- 🧠 Keras
+- 🐼 Pandas
+- 📊 Seaborn
+- 🔍 Power Query
+- 🚀 Qlik Sense
+- 🔍 Looker
+- 🌀 Pentaho Data Integration
+- 🏢 Data Warehousing
+- 🎨 Design e UX
+- 🔄 Dbt
 
 ## 📚🔍 Formação Acadêmica
 
 - **Pós-graduação Lato Sensu em Engenharia de Dados**
-  - Anhanguera Educacional (Jan 2024 - Ago 2024)
+  - <img src="https://media.licdn.com/dms/image/C4D0BAQFeQu7H8j_Ilw/company-logo_100_100/0/1672575233559/unicesumaroficial_logo?e=1715817600&v=beta&t=ywq28cVfpDkVgYdwCpzkloSldnKs_nKHcRG28FVyX4I" alt="Anhanguera Educacional" width="20"/> Anhanguera Educacional (Jan 2024 - Ago 2024)
 
 - **Curso Superior de Tecnologia em Ciências de Dados e Análise de Comportamento**
-  - UniCesumar (Jan 2021 - Nov 2023)
+  - <img src="https://media.licdn.com/dms/image/D4D0BAQGjEF1hl2HX_g/company-logo_100_100/0/1697566125095/anhanguera_educacional_sa_logo?e=1715817600&v=beta&t=JA2s1-SswA2_CGd0zj7TrJ9W3dVlJwBhXqMIxE9R7b4" alt="UniCesumar" width="20"/> UniCesumar (Jan 2021 - Nov 2023)
   - Graduado com CRA 6.73 / Total da Carga Horária 2320 horas
 
 ## 💬 Sobre Mim
@@ -43,9 +39,9 @@ Sou um profissional que busca constantemente aprimorar minhas habilidades, procu
 
 ## 🌐🗣️ Idiomas
 
-- Francês (Avançado)
-- Inglês (Fluente)
-- Português (Nativo)
+- 🇫🇷 Francês (Avançado)
+- 🇬🇧 Inglês (Fluente)
+- 🇧🇷 Português (Nativo)
 
 Seja qual for o projeto, estou comprometido em contribuir com excelência. Vamos conectar nossas paixões e competências para impulsionar a inovação e alcançar resultados extraordinários!
 
