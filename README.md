@@ -24,14 +24,16 @@ Olá! Sou **Pedro Henrique Velame**, um Tecnologista em Ciência de Dados apaixo
 - 🎨 Design e UX
 - 🔄 Dbt
 
+  
 ## 📚🔍 Formação Acadêmica
 
 - **Pós-graduação Lato Sensu em Engenharia de Dados**
-  - <img src="https://media.licdn.com/dms/image/C4D0BAQFeQu7H8j_Ilw/company-logo_100_100/0/1672575233559/unicesumaroficial_logo?e=1715817600&v=beta&t=ywq28cVfpDkVgYdwCpzkloSldnKs_nKHcRG28FVyX4I" alt="Anhanguera Educacional" width="20"/> Anhanguera Educacional (Jan 2024 - Ago 2024)
+  - <img src="https://media.licdn.com/dms/image/C4D0BAQFeQu7H8j_Ilw/company-logo_100_100/0/1672575233559/unicesumaroficial_logo?e=1715817600&v=beta&t=ywq28cVfpDkVgYdwCpzkloSldnKs_nKHcRG28FVyX4I" alt="UniCesumar" width="20"/> UniCesumar (Jan 2024 - Ago 2024)
 
 - **Curso Superior de Tecnologia em Ciências de Dados e Análise de Comportamento**
-  - <img src="https://media.licdn.com/dms/image/D4D0BAQGjEF1hl2HX_g/company-logo_100_100/0/1697566125095/anhanguera_educacional_sa_logo?e=1715817600&v=beta&t=JA2s1-SswA2_CGd0zj7TrJ9W3dVlJwBhXqMIxE9R7b4" alt="UniCesumar" width="20"/> UniCesumar (Jan 2021 - Nov 2023)
+  - <img src="https://media.licdn.com/dms/image/D4D0BAQGjEF1hl2HX_g/company-logo_100_100/0/1697566125095/anhanguera_educacional_sa_logo?e=1715817600&v=beta&t=JA2s1-SswA2_CGd0zj7TrJ9W3dVlJwBhXqMIxE9R7b4" alt="Anhanguera Educacional" width="20"/> Anhanguera Educacional (Jan 2021 - Nov 2023)
   - Graduado com CRA 6.73 / Total da Carga Horária 2320 horas
+  - 
 
 ## 💬 Sobre Mim
 
