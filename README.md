@@ -1,50 +1,77 @@
-# 💼 Pedro Henrique Velame - Analista de Dados | Especialista em Transformação de Negócios por Meio de Dados
+# 💼 Pedro Henrique Velame – Cientista de Dados & Engenheiro de Dados
 
-Bem-vindo ao meu perfil no GitHub! Sou um **profissional especializado** em transformar dados em **estratégias de crescimento**, utilizando análises avançadas e automação para aprimorar processos de tomada de decisão. Minha missão é **impulsionar o desempenho empresarial**, alavancando **insights valiosos** e **soluções inovadoras**.
+Bem-vindo ao meu perfil! Sou um **profissional especializado em transformar dados em insights estratégicos**, com experiência em **Big Data, Data Engineering, Machine Learning e BI**. Minha missão é **impulsionar decisões orientadas por dados** e otimizar processos empresariais por meio de **soluções escaláveis e auditáveis**.
 
-Com forte foco em **Data Science**, **BI** e **Big Data**, estou continuamente aperfeiçoando minhas habilidades, especialmente em **Python**, para otimizar a **análise de dados** e automatizar processos. Possuo um **pensamento analítico robusto**, que me permite **identificar padrões**, **solucionar problemas complexos** e desenvolver **insights estratégicos** para apoiar decisões de negócios.
+---
+
+## 🔹 Sobre Mim
+- Experiência prática com **pipelines distribuídos, modelagem dimensional e governança de dados**.  
+- Forte atuação em **Python, SQL, Power BI, GCP, Databricks, dbt, Trino, PySpark e Airflow**.  
+- Projetos com **grandes volumes de dados (~360M linhas)** e **dashboards estratégicos** para acompanhamento de KPIs.  
+- Certificado em **IBM Data Science & Data Analyst**, com foco em **ML, ETL, BI e Cloud Computing**.  
+- Inglês fluente, Espanhol intermediário, Francês básico.
+
+---
 
 ## 🔧 Habilidades Técnicas
 
-### 🖥️ Linguagens e Ferramentas
-- 🐍 **Python**
-- 🗃️ **SQL**
-- 📊 **Power BI**
-- 📈 **Excel**
-- 🐙 **GitHub**
-- 🤖 **RPA**
-- 🔥 **PySpark**
+### 🖥️ Linguagens & Bibliotecas
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
+- SQL avançado (PostgreSQL, MySQL, SQL Server, Oracle)  
+- R (ggplot2, dplyr, caret)  
 
-### 🔄 Processos de ETL
-- 🌀 **Pentaho**
-- 🔗 **Airflow**
-- 🏗️ **Dbt**
+### ☁️ Plataformas & Big Data
+- Google Cloud Platform (BigQuery, Dataflow, AI Platform, Pub/Sub)  
+- AWS (S3, Redshift, Athena, Glue, SageMaker, Lambda)  
+- Azure (Data Factory, Synapse Analytics, Databricks)  
+- Apache Spark / PySpark, dbt, Trino, MinIO, Apache Iceberg, Kafka  
 
-### 🏢 Big Data
-- 🏢 **BigQuery**
-- ⏩ **Dataflow**
-- ☁️ **GCP**
-- 🚀 **Databricks**
-- ❄️ **Snowflake**
+### 📊 BI & Visualização
+- Power BI (DAX, Power Query, Row Level Security)  
+- Tableau, Looker, Excel Avançado  
+- Dashboards estratégicos e relatórios dinâmicos  
 
-### 📊 Business Intelligence
-- 📊 **Power BI**
-- 📈 **Excel**
-- 📋 **Dashboards e Relatórios Dinâmicos**
+### 🔄 ETL & Data Engineering
+- Pipelines automatizados com Airflow, dbt, Python  
+- Modelagem Dimensional: Star Schema, Snowflake Schema  
+- Data Lake, Data Warehouse, Data Lineage, Data Governance  
 
-### 🗄️ Armazenamento e Integração de Dados
-- 🏢 **Data Warehousing**
-- ☁️ **Cloud Compose**
+### 🤖 Machine Learning & AI
+- Modelos preditivos, regressão, redes neurais  
+- NLP, Computer Vision, Deep Learning (TensorFlow, Keras, PyTorch)  
+- MLflow, experiment tracking e CI/CD para ML  
 
-## 🔍 Ferramentas de BI
-Desenvolvimento de **dashboards interativos** e relatórios no **Power BI** e **Excel**, visualizando **métricas** e **tendências** para otimizar a **inteligência de negócios**.
+---
 
-## ☁️ Plataformas de Nuvem
-Experiência em soluções na **GCP** e **Cloud Compose**, otimizando o **processamento** e **armazenamento de dados** para garantir **escalabilidade** e **segurança** em projetos orientados por dados.
+## 🚀 Projetos Destaque
+
+### 1️⃣ **Pipeline Analítico Corporativo**
+- **Descrição**: ETL + modelagem dimensional + dashboards Power BI  
+- **Tecnologias**: Python, dbt, Trino, MinIO, Iceberg, Power BI  
+- **Impacto**: Processamento de ~360M linhas, dashboards estratégicos com RLS  
+
+### 2️⃣ **Automação de Notas Fiscais**
+- **Descrição**: Extração e tratamento de dados XML automatizada  
+- **Tecnologias**: Python, SQL, Power BI  
+- **Impacto**: Redução de retrabalho e tempo de execução em processos corporativos  
+
+### 3️⃣ **Machine Learning para Previsão**
+- **Descrição**: Modelo preditivo para análise de séries temporais  
+- **Tecnologias**: Python, Pandas, Scikit-learn, TensorFlow  
+- **Impacto**: Identificação de padrões estratégicos para decisões de negócio  
+
+*(Inclua links diretos para repositórios correspondentes)*
+
+---
 
 ## 🎯 O que estou buscando
-- **Desafios** em empresas inovadoras que utilizem **dados** para **crescimento estratégico**.
-- Ambientes que incentivem **aprendizado contínuo** e o desenvolvimento de **soluções orientadas por dados**.
-- Projetos que tenham **impacto real** nas operações e no crescimento da empresa.
+- **Desafios em empresas inovadoras** que utilizem dados para **crescimento estratégico**  
+- Projetos com **impacto real** e **aprendizado contínuo**  
+- Ambientes que incentivem **soluções orientadas por dados** e **transformação digital**
 
-Acredito no poder **transformador dos dados** e estou comprometido em utilizar minhas **habilidades analíticas** para promover **mudanças significativas** e impulsionar o **sucesso das organizações**. Estou à procura de oportunidades que me desafiem a crescer e contribuir para **projetos inovadores**.
+---
+
+## 📫 Contato
+- Email: pedrovelame123@gmail.com  
+- LinkedIn: [linkedin.com/in/pedro-h-velame](https://linkedin.com/in/pedro-h-velame)  
+- GitHub: [github.com/pedrohvel](https://github.com/pedrohvel)
