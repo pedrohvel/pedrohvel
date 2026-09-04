@@ -1,0 +1,29 @@
+version: 2
+
+models:
+  - name: stg_orders
+    description: Normalized order records used as the trusted staging layer.
+    columns:
+      - name: order_id
+        tests: [not_null, unique]
+      - name: customer_id
+        tests: [not_null]
+      - name: status
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['created', 'paid', 'cancelled', 'refunded']
+      - name: amount
+        tests: [not_null]
+      - name: order_date
+        tests: [not_null]
+
+  - name: fct_daily_revenue
+    description: One row per order date containing paid-order count and revenue.
+    columns:
+      - name: order_date
+        tests: [not_null, unique]
+      - name: paid_orders
+        tests: [not_null]
+      - name: revenue
+        tests: [not_null]
