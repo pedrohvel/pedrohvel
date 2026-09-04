@@ -122,6 +122,14 @@ A clear system that can be operated safely is more valuable than an impressive d
 
 ---
 
+## Repository governance
+
+The repositories follow a lightweight **Antientropy policy**: each repo has an explicit role, stable naming, a public/private boundary and a promotion/archive path.
+
+[**Read the GitHub Antientropy Policy →**](./docs/ANTIENTROPY.md)
+
+---
+
 ## Education
 
 - **Postgraduate Specialization — Data Architecture & Strategy**, PUC Minas
