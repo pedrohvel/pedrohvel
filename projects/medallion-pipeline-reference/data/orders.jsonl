@@ -1,0 +1,5 @@
+{"order_id":"o-1001","customer_id":"c-01","status":"created","amount":"129.90","order_date":"2026-09-01","updated_at":"2026-09-01T10:00:00Z"}
+{"order_id":"o-1001","customer_id":"c-01","status":"paid","amount":"129.90","order_date":"2026-09-01","updated_at":"2026-09-01T10:04:00Z"}
+{"order_id":"o-1002","customer_id":"c-02","status":"paid","amount":"80.00","order_date":"2026-09-01","updated_at":"2026-09-01T11:15:00Z"}
+{"order_id":"o-1003","customer_id":"c-03","status":"cancelled","amount":"45.00","order_date":"2026-09-02","updated_at":"2026-09-02T09:00:00Z"}
+{"order_id":"o-1004","customer_id":"c-04","status":"paid","amount":"210.50","order_date":"2026-09-02","updated_at":"2026-09-02T12:30:00Z"}
