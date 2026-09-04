@@ -1,0 +1,13 @@
+name: dbt_quality_mart
+version: '1.0.0'
+config-version: 2
+profile: dbt_quality_mart
+model-paths: ["models"]
+seed-paths: ["seeds"]
+clean-targets: ["target", "dbt_packages"]
+models:
+  dbt_quality_mart:
+    staging:
+      +materialized: view
+    marts:
+      +materialized: table
